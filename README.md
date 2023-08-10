@@ -1,6 +1,18 @@
 # ## Introduction
 
 This project demonstrates the deployment of a Python web application that displays a "Hello, World!" message. The application is built using the Flask framework.
+## Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- Python 3.x
+- Pip (Python package manager)
+
+1. Clone this repository to your local machine:
+
+   ```sh
+   git clone https://github.com/yourusername/your-web-app.git
+   cd online-task
 
 online-task![Screenshot from 2023-08-10 10-22-36](https://github.com/nagaraju9951/online-task/assets/126653784/f1c19bab-f7b6-4764-ad9f-fd6464e90970)
 
