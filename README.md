@@ -8,6 +8,8 @@ Before you begin, make sure you have the following installed:
 - Python 3.x
 - Pip (Python package manager)
 
+## Installation
+
 1. Clone this repository to your local machine:
 
    ```sh
